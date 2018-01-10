@@ -31,11 +31,11 @@ Enter the URL in settings.
 URL: https://nasserver.herokuapp.com/RichTextViewerPlasmoid/Hello
 
 ## Screenshots
-![Plasmoid](https://raw.githubusercontent.com/nascorp/plasma-applet-richtextviewer/master/plasmoid.png)
+![Plasmoid](https://raw.githubusercontent.com/NasCorp/plasma-applet-richtextviewer/master/plasmoid.png)
 
-![Plasmoid (Panel)](https://raw.githubusercontent.com/nascorp/plasma-applet-richtextviewer/master/panel.png)
+![Plasmoid (Panel)](https://github.com/NasCorp/plasma-applet-richtextviewer/blob/master/plasmoid-panel.png)
 
-![Plasmoid (Configuration)](https://raw.githubusercontent.com/nascorp/plasma-applet-richtextviewer/master/config.png)
+![Plasmoid (Configuration)](https://raw.githubusercontent.com/NasCorp/plasma-applet-richtextviewer/master/plasmoid-config.png)
 
 ## Changelog
 
