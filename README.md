@@ -1,11 +1,11 @@
 # Rich Text Viewer Plasmoid
 
 ## About
-This is a Plasma applet that shows any text loaded from user defined source.
+Rich Text Viewer is a Plasma applet that shows any text (field using RichText type) loaded from user defined source (url).
+[Rich Text Viewer at opendesktop.org](https://www.opendesktop.org/p/1207198/)
 
 Credits to Maciej Gierej, author of several bitcoin applets that this applet is derived from:
-
-https://github.com/MakG10/
+[MakG10 at github](https://github.com/MakG10/)
 
 ## Debug
 ```
