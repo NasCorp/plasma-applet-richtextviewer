@@ -6,7 +6,7 @@
     <kcfgfile name=""/>
     <group name="General">
         <entry name="xeUrl" type="String">
-            <label>Data URL</label>
+            <label>URL</label>
             <default>https://nasserver.herokuapp.com/RichTextViewerPlasmoid/Hello</default>
         </entry>
         <entry name="refreshRate" type="Int">

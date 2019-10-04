@@ -20,7 +20,7 @@ Item {
         columns: 2
 
         Label {
-            text: i18n("Exchange URL:")
+            text: i18n("URL:")
         }
 
         TextField {
