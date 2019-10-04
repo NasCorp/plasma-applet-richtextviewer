@@ -4,13 +4,13 @@ Name[en_GB]=RichTextViewer
 Comment=Displays RichText loaded from defined source.
 Comment[en_GB]=Displays RichText loaded from defined source.
 
-Icon=applications-internet
+Icon=view-refresh
 Type=Service
 ServiceTypes=Plasma/Applet
 
 X-KDE-PluginInfo-Author=Nas
 X-KDE-PluginInfo-Email=9460355@gmail.com
-X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Version=1.1
 X-KDE-PluginInfo-Website=https://github.com/nascorp/plasma-applet-richtextviewer
 X-KDE-PluginInfo-Category=Utilities
 X-KDE-PluginInfo-Depends=
