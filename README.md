@@ -39,7 +39,7 @@ URL: https://nasserver.herokuapp.com/RichTextViewerPlasmoid/Hello
 
 ## Changelog
 
-### 1.0
+### 1.1
 Initial release
 
 ## Donate
